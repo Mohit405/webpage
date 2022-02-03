@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    box-sizing: border-box;
+    background-color:black;
+}
+h1{
+    color:red;
+    text-align: center;
+    font-family: cursive;
+    position:absolute;
+    top:10px;
+    cursor: pointer;
+}
+.h1{
+    position:absolute;
+    top: 5px;
+    left: 500px;
+}
+h2{
+    color:red;
+    text-align: center;
+    font-style: italic;
+    position:absolute;
+    top:30px;
+    left: 400px;
+}
+
+button{
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    background-color: black;
+    color: red;
+}
+.contain2{
+    position:absolute;
+    left: 500px;
+    top: 80px;
+}
+.contain{
+    position: absolute;
+    top:170px;
+    left: 500px;
+}
+input{
+    font-family: cursive;
+    border-radius: 10px;
+    background-color: black;
+    color: red;
+}
+
+img{
+position: relative;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 100%;
+ width: 100%;
+}
+a{  
+    color:red;
+}
